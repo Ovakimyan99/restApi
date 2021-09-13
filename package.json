@@ -1,7 +1,7 @@
 {
   "name": "restapi",
   "version": "1.0.0",
-  "description": "rest api fullstack example",
+  "description": "rest api fullstack example. Отработка рест апи. Мини приложение, в котором добавляются данные юзера, помечаются и удаляются",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
